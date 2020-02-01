@@ -1,2 +1,0 @@
-# ts
-Created with CodeSandbox
